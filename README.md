@@ -5,13 +5,13 @@ Practica 1 OpenGL
 
 #Line Incremental
 
-![alt text](PRACTICA1/line1.png)
+![alt text](PRACTICA 1/line1.png)
 
 #Line Middle Point
 
-![alt text](PRACTICA1/line1.png)
+![alt text](PRACTICA 1/line1.png)
 
 
 #Poligon N sides with radius
 
-![alt text](PRACTICA1/poligono.png)
+![alt text](PRACTICA 1/poligono.png)
