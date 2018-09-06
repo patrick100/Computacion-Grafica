@@ -5,7 +5,7 @@ Practica 1 OpenGL
 
 #Line Incremental
 
-![alt text](PRACTICA\ 1/line1.png)
+![alt text](PRACTICA%201/line1.png)
 
 #Line Middle Point
 
