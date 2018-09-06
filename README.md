@@ -5,7 +5,7 @@ Practica 1 OpenGL
 
 # Line Incremental
 
-![alt text](PRACTICA%201/line1.png | width=48)
+![alt text](PRACTICA%201/line1.png) <!-- .element height="50%" width="50%" -->
 
 # Line Middle Point
 
