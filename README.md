@@ -9,9 +9,9 @@ Practica 1 OpenGL
 
 #Line Middle Point
 
-![alt text](PRACTICA\ 1/line1.png)
+![alt text](PRACTICA%201/line1.png)
 
 
 #Poligon N sides with radius
 
-![alt text](PRACTICA\ 1/poligono.png)
+![alt text](PRACTICA%201/poligono.png)
