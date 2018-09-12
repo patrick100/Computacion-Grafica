@@ -22,13 +22,13 @@ Practica 1 OpenGL
 
 # Traslacion tortuga
 
-![alt text](PRACTICA2/traslate.png) <!-- .element height="50%" width="50%" -->
+![alt text](translate.png) <!-- .element height="50%" width="50%" -->
 
 # Rotacion tortuga
 
-![alt text](PRACTICA2/rotate.png)
+![alt text](rotar.png)
 
 
 # Escala Tortuga
 
-![alt text](PRACTICA2/scale.png)
+![alt text](scale.png)
