@@ -3,18 +3,18 @@ Practicas de Computación Grafica Ciencia de la Computación UNSA
 
 Instrucciones
 
-W  Mover arriba
-A  Mover izquierda
-S  Mover abajo
-D  Mover derecha
+W  Mover arriba <br/>
+A  Mover izquierda <br/>
+S  Mover abajo <br/>
+D  Mover derecha <br/>
 
-I  Rotar arriba 
-J  Rotar izquierda 
-K  Rotar abajo
-L  Rotar derecha
+I  Rotar arriba <br/>
+J  Rotar izquierda <br/>
+K  Rotar abajo <br/>
+L  Rotar derecha <br/>
 
-+  Aumentar escala
--  Disminuir escala
+'+'  Aumentar escala <br/>
+'-'  Disminuir escala <br/>
 
 
 
