@@ -3,8 +3,9 @@ Practicas de Computación Grafica Ciencia de la Computación UNSA
 
 Pintar con Tortuga
 
-Instrucciones
-Para Pintar
+Instrucciones<br/> 
+
+Para Pintar<br/>
 W  Mover arriba <br/>
 A  Mover izquierda <br/>
 S  Mover abajo <br/>
