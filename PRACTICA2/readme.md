@@ -18,7 +18,7 @@ L  Rotar derecha <br/>
 
 
 
-Practica 1 OpenGL
+Practica 2 OpenGL
 
 # Traslacion tortuga
 
