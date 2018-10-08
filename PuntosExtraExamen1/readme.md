@@ -11,5 +11,7 @@ La idea es iterar un z el cual sera fijo en cada iteracion del calculo de la fun
 # Algoritmo parabola
 
 La idea es evitar volver a calcular el lado negativo por reflexion podemos evitarnos el calculo <br/>
-de la funcion y=ax2+bx+c
+de la funcion y=ax2+bx+c <br/>
+
+
 ![alt text](parabola.png) 
