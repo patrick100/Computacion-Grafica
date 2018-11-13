@@ -5,10 +5,10 @@ Para compilar g++ main.cpp Camara.cpp Vector_tools.cpp primitivas.cpp -o out  -l
 
 # Tortuga Normal Presionar F4
 
-![alt text](normal.png)
+![alt text](normal2.png)
 
 
 
 # Tortuga en Perspectiva Presionar F3
 
-![alt text](perspectiva.png)
+![alt text](perspectiva2.png)
